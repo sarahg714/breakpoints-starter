@@ -1,3 +1,10 @@
+/* ----------- Mobile Device larger than 360px wide -------*/
+@media (min-width: 360px) {
+  body {
+    background: rgb(240, 41, 240);
+  }
+}
+
 
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
